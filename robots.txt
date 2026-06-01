@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://schedule.caddrawingdownload.com/sitemap.xml
